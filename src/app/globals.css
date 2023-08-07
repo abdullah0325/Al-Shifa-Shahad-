@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-img{
+  background-image: url('../../public/pic/bg1.jpg');
+}
+
+.promo-1{
+  background-image:url('../../public/pic/download\ \(3\).jpg') ;
+}
+.promo-2{
+  background-image:url('../../public/pic/images\ \(14\).jpg') ;
+}
